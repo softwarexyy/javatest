@@ -28,6 +28,9 @@ public class ArrayAlg {
 		return new Pair<String>(min, max);
 	}
 
+	/**
+	 * 构造方法
+	 */
 	public ArrayAlg() {
 		System.out.println("use constructor");
 	}
